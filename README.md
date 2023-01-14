@@ -1,4 +1,4 @@
-# BigNumbers
+# BigNumbers 🔢
 
 Voi explica codul pas cu pas:
 
