@@ -17,6 +17,7 @@ Voi explica codul pas cu pas:
 7.Lista number este utilizată pentru a stoca cifrele numarului mare in ordine inversa.
 
 8.Clasa mai are metode precum Add(), Subtract(), Multiply() si Divide() care efectueaza operatiile aritmetice corespunzatoare pe doua obiecte BigNumber.
+
 9.Metoda Multiply() itereaza prin cifrele ambelor obiecte BigNumber si efectueaza inmultirea pentru fiecare pereche de cifre.
 
 10.Metoda Divide() scade repetat divizorul din catul pana cand catul este mai mic decat divizorul.
